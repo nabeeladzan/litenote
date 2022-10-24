@@ -1,0 +1,2 @@
+# litenote
+Lightweight Text Editor
