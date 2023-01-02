@@ -18,7 +18,6 @@ export default function App() {
 		});
 
 		setFile(entries);
-		s;
 		setMessage(entries[0]);
 	};
 
