@@ -1,2 +1,2 @@
-# litenote
-Lightweight Text Editor
+# Litenote
+Lightweight Text Editor build with React and NeutralinoJS
